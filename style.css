@@ -35,7 +35,7 @@ body {
   height: 65px;
   border-radius: 5px;
   cursor: pointer;
-  border: 1px solid #000;
+  border: 1px solid rgb(119, 45, 45);
   text-align: center;
   line-height: 65px;
 }
